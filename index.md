@@ -7,10 +7,12 @@ BusStopApp
 ### Countdown
 
 # Never be late or miss your bus again!
-## Header 2
-### Header 3
+## With BusStopApp you are notified of your bus's location in reference to your bus stop location!
+### The App tells you the scheduled:
 
-- Bulleted
+- Arrival time
+- One minute to arrival
+- here now
 - List
 
 1. Numbered
