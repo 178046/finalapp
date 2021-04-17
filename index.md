@@ -6,7 +6,7 @@ BusStopApp
 
 ### Countdown
 
-# Header 1
+# Never be late or miss your bus again!
 ## Header 2
 ### Header 3
 
