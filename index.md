@@ -18,7 +18,7 @@ BusStopApp
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image]("![image](banana.png)
+[Link](url) and ![Image](nanana.png)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
