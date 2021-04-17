@@ -1,15 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to My Final App
 
-You can use the [editor on GitHub](https://github.com/178046/finalapp/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+BusStopApp
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Larry Robertson
 
 ### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
